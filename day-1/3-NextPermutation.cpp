@@ -1,5 +1,8 @@
+// Problem Link : codingninjas.com / codestudio / problems / 893046 ? topList = striver - sde - sheet - problems &utm_source = striver &utm_medium = website
+
 #include <bits/stdc++.h>
-vector<int> nextPermutation(vector<int> &permutation, int n)
+vector<int>
+nextPermutation(vector<int> &permutation, int n)
 {
 
     int k = -1;
